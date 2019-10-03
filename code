@@ -37,3 +37,5 @@ int main()
 
     return 0;
 }
+
+// The strength of the password generated is not best
